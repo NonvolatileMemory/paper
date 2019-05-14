@@ -33,3 +33,6 @@ English phrases for writing
 30. Although this does allow us to obtain bidirectional pre-trained model, threr are two main downsides to such an approch.
 31. semantically equivalent 语义等价
 32. Given a pair of sentences, the goal is to predict whether the second sentence is an entailment, contradication, or neutral with respect to the first one. 
+33. It casts a great opportunity to launch automatic conversation systems.  它为落地自动对话系统提供了一个绝佳的机会。 
+34. The proposed model is general and unified for different tasks. 对不同的任务泛化能力都很好。
+35.  We demonstrate significant performance improvement against a series of standard and state-of-art baselines in terms of xx 我们证明了我们的算法牛逼
