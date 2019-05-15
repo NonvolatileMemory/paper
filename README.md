@@ -36,3 +36,4 @@ English phrases for writing
 33. It casts a great opportunity to launch automatic conversation systems.  它为落地自动对话系统提供了一个绝佳的机会。 
 34. The proposed model is general and unified for different tasks. 对不同的任务泛化能力都很好。
 35.  We demonstrate significant performance improvement against a series of standard and state-of-art baselines in terms of xx 我们证明了我们的算法牛逼
+36. To be more specific,  更具体的来说
