@@ -37,3 +37,5 @@ English phrases for writing
 34. The proposed model is general and unified for different tasks. 对不同的任务泛化能力都很好。
 35.  We demonstrate significant performance improvement against a series of standard and state-of-art baselines in terms of xx 我们证明了我们的算法牛逼
 36. To be more specific,  更具体的来说
+37. In order to alleviate such redundancy problem 为了解决这个冗余的问题
+38. 
